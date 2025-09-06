@@ -22,7 +22,7 @@
     "@storybook/source-loader": "7.6.20",
     "@testing-library/cypress": "^8.0.2",
     "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "13.3.0",
+    "@testing-library/react": "13.4.0",
     "@testing-library/react-hooks": "^7.0.2",
     "@types/chroma-js": "^1.4.3",
     "@types/cypress-axe": "^0.4.0",
@@ -82,8 +82,8 @@
     "npm-run-all": "^4.1.5",
     "prettier": "^2.2.0",
     "raw-loader": "^4.0.2",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "remark-gfm": "^3.0.0",
     "replace-in-files": "^2.0.3",
     "rimraf": "^2.6.3",
@@ -136,8 +136,8 @@
   "resolutions": {
     "ansi-regex": "3.0.1",
     "braces": "3.0.3",
-    "micromatch": "4.0.6",
-    "jscodeshift": "0.14.0",
+    "micromatch": "4.0.8",
+    "jscodeshift": "0.16.1",
     "puppeteer-core": "^13.7.0",
     "loader-utils": "@1.4.1"
   }
