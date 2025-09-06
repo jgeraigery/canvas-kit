@@ -57,7 +57,7 @@
   "devDependencies": {
     "@workday/canvas-accent-icons-web": "^3.0.0",
     "formik": "^2.2.9",
-    "react-hook-form": "7.36.1",
+    "react-hook-form": "7.62.0",
     "yup": "^0.32.11"
   }
 }
